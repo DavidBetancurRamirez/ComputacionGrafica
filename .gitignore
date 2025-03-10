@@ -1,0 +1,25 @@
+# Ignorar entorno virtual
+comp_graf_env/
+
+# Ignorar archivos de caché y configuración
+__pycache__/
+*.pyc
+*.pyo
+
+# Presentaciones
+*.pptx
+*.ppt
+
+# PDFs
+*.pdf
+
+# Documentos
+*.docx
+*.doc
+
+# Unity
+Unity/
+
+# Mevislab
+*.mlab
+*.chm
